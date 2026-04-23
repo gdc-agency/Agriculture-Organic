@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "category": "Fashion"
+    },
+    {
+        "id": 2,
+        "category": "Education"
+    },
+    {
+        "id": 3,
+        "category": "Nation"
+    },
+    {
+        "id": 4,
+        "category": "Study"
+    },
+    {
+        "id": 5,
+        "category": "Health"
+    },
+    {
+        "id": 7,
+        "category": "Food"
+    },
+    {
+        "id": 6,
+        "category": "Travel"
+    }
+]

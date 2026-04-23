@@ -1,0 +1,108 @@
+{
+    "listData": [
+        {
+            "id": 1,
+            "activeClass": "active",
+            "year": 1870,
+            "dataTarget": "#timeline-carousel",
+            "dataSlideTo": 0,
+            "ariaCurrent": "true",
+            "ariaLabel": "Slide 1"
+        },
+        {
+            "id": 2,
+            "activeClass": "",
+            "year": 1916,
+            "dataTarget": "#timeline-carousel",
+            "dataSlideTo": 1,
+            "ariaCurrent": "true",
+            "ariaLabel": "Slide 2"
+        },
+        {
+            "id": 3,
+            "activeClass": "",
+            "year": 2002,
+            "dataTarget": "#timeline-carousel",
+            "dataSlideTo": 2,
+            "ariaCurrent": "true",
+            "ariaLabel": "Slide 3"
+        },
+        {
+            "id": 4,
+            "activeClass": "",
+            "year": 2004,
+            "dataTarget": "#timeline-carousel",
+            "dataSlideTo": 3,
+            "ariaCurrent": "true",
+            "ariaLabel": "Slide 3"
+        },
+        {
+            "id": 5,
+            "activeClass": "",
+            "year": 2018,
+            "dataTarget": "#timeline-carousel",
+            "dataSlideTo": 4,
+            "ariaCurrent": "true",
+            "ariaLabel": "Slide 4"
+        },
+        {
+            "id": 6,
+            "activeClass": "",
+            "year": 2021,
+            "dataTarget": "#timeline-carousel",
+            "dataSlideTo": 5,
+            "ariaCurrent": "true",
+            "ariaLabel": "Slide 5"
+        }
+    ],
+    "infoData": [
+        {
+            "id": 1,
+            "activeClass": "active",
+            "thumb": "8.jpg",
+            "title": "Open Farm",
+            "description": "One advanced diverted domestic sex repeated bringing you old. Possible procured her trifling laughter thoughts property she met way. Companions shy had solicitude favourable own. Which could saw guest man now heard but. Lasted my coming uneasy marked so should. Gravity letters it amongst herself dearest an windows.",
+            "buttonText": "Discover More"
+        },
+        {
+            "id": 2,
+            "activeClass": "",
+            "thumb": "9.jpg",
+            "title": "Created New Products",
+            "description": "One advanced diverted domestic sex repeated bringing you old. Possible procured her trifling laughter thoughts property she met way. Companions shy had solicitude favourable own. Which could saw guest man now heard but. Lasted my coming uneasy marked so should. Gravity letters it amongst herself dearest an windows.",
+            "buttonText": "Discover More"
+        },
+        {
+            "id": 3,
+            "activeClass": "",
+            "thumb": "10.jpg",
+            "title": "Farm Remodelacion",
+            "description": "One advanced diverted domestic sex repeated bringing you old. Possible procured her trifling laughter thoughts property she met way. Companions shy had solicitude favourable own. Which could saw guest man now heard but. Lasted my coming uneasy marked so should. Gravity letters it amongst herself dearest an windows.",
+            "buttonText": "Discover More"
+        },
+        {
+            "id": 4,
+            "activeClass": "",
+            "thumb": "11.jpg",
+            "title": "Grainfarmers Formed",
+            "description": "One advanced diverted domestic sex repeated bringing you old. Possible procured her trifling laughter thoughts property she met way. Companions shy had solicitude favourable own. Which could saw guest man now heard but. Lasted my coming uneasy marked so should. Gravity letters it amongst herself dearest an windows.",
+            "buttonText": "Discover More"
+        },
+        {
+            "id": 5,
+            "activeClass": "",
+            "thumb": "12.jpg",
+            "title": "Start of Agriculture",
+            "description": "One advanced diverted domestic sex repeated bringing you old. Possible procured her trifling laughter thoughts property she met way. Companions shy had solicitude favourable own. Which could saw guest man now heard but. Lasted my coming uneasy marked so should. Gravity letters it amongst herself dearest an windows.",
+            "buttonText": "Discover More"
+        },
+        {
+            "id": 6,
+            "activeClass": "",
+            "thumb": "13.jpg",
+            "title": "Farming were cultivating",
+            "description": "One advanced diverted domestic sex repeated bringing you old. Possible procured her trifling laughter thoughts property she met way. Companions shy had solicitude favourable own. Which could saw guest man now heard but. Lasted my coming uneasy marked so should. Gravity letters it amongst herself dearest an windows.",
+            "buttonText": "Discover More"
+        }
+    ]
+}

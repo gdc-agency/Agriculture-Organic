@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "bgImage": "24.jpg",
+        "shapeImage": "28.png",
+        "title": "Dairy Milk",
+        "tags": [
+            "Natural",
+            "Fresh",
+            "Nutrient"
+        ],
+        "buttonText": "Discover More"
+    },
+    {
+        "id": 2,
+        "bgImage": "25.jpg",
+        "shapeImage": "28.png",
+        "title": "Dairy Cream",
+        "tags": [
+            "Natural",
+            "Fresh",
+            "Nutrient"
+        ],
+        "buttonText": "Discover More"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Blueberry",
+        "thumb": "9.png"
+    },
+    {
+        "id": 2,
+        "name": "Strawberry",
+        "thumb": "10.png"
+    },
+    {
+        "id": 3,
+        "name": "Cabbage",
+        "thumb": "11.png"
+    },
+    {
+        "id": 4,
+        "name": "Maize",
+        "thumb": "12.png"
+    },
+    {
+        "id": 5,
+        "name": "Orange",
+        "thumb": "13.png"
+    },
+    {
+        "id": 6,
+        "name": "Apples",
+        "thumb": "14.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "backgroundImage": "6.jpg",
+        "subheading": "Best Agro Company",
+        "heading": "Organic agriculture farming products",
+        "highlight": "Organic agriculture",
+        "buttonText": "Discover More"
+    },
+    {
+        "id": 2,
+        "backgroundImage": "5.jpg",
+        "subheading": "Natural Farming Company",
+        "heading": "Agriculture matter good production",
+        "highlight": "Agriculture matter",
+        "buttonText": "Discover More"
+    }
+]

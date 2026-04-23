@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "title": "Strawberry",
+        "thumb": "1.png",
+        "tags": [
+            "Crop",
+            "Organic"
+        ],
+        "price": "$12.00",
+        "oldPrice": null,
+        "onSale": false,
+        "actions": [
+            "Add to cart",
+            "Add to wishlist",
+            "Quick view"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Organic Carrot",
+        "thumb": "2.png",
+        "tags": [
+            "Vegetables",
+            "Winter"
+        ],
+        "price": "$5.00",
+        "onSale": true,
+        "oldPrice": "$8.00",
+        "actions": [
+            "Add to cart",
+            "Add to wishlist",
+            "Quick view"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Organic Sweet Corn",
+        "thumb": "4.png",
+        "tags": [
+            "Fruits",
+            "Juicy"
+        ],
+        "price": "$8.00",
+        "oldPrice": null,
+        "onSale": false,
+        "actions": [
+            "Add to cart",
+            "Add to wishlist",
+            "Quick view"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Fresh Fish",
+        "thumb": "5.png",
+        "tags": [
+            "Fish",
+            "Health"
+        ],
+        "price": "$25.00",
+        "oldPrice": null,
+        "onSale": false,
+        "actions": [
+            "Add to cart",
+            "Add to wishlist",
+            "Quick view"
+        ]
+    }
+]

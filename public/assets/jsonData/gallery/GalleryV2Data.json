@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "activeClass": "",
+    "thumb": "1.jpg",
+    "thumbFull": "1-full.jpg",
+    "category": "Fruit",
+    "title": "Healthy Food"
+  },
+  {
+    "id": 2,
+    "activeClass": "width",
+    "thumb": "6.jpg",
+    "thumbFull": "6-full.jpg",
+    "category": "Vegetables",
+    "title": "Organic Vegetables"
+  },
+  {
+    "id": 3,
+    "activeClass": "",
+    "thumb": "3.jpg",
+    "thumbFull": "3-full.jpg",
+    "category": "Maize",
+    "title": "Fresh Corn"
+  },
+  {
+    "id": 4,
+    "activeClass": "",
+    "thumb": "4.jpg",
+    "thumbFull": "4-full.jpg",
+    "category": "Cereals",
+    "title": "Fresh Mandrains"
+  },
+  {
+    "id": 5,
+    "activeClass": "",
+    "thumb": "5.jpg",
+    "thumbFull": "5-full.jpg",
+    "category": "Havest",
+    "title": "Crispy Cucumber"
+  }
+]

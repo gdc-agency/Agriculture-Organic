@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "thumb": "12.jpg",
+        "title": "Farm Company",
+        "description": "Coming merits and was talent enough far. Sir joy northward sportsmen education. Discovery incommode earnestly no he commanded.",
+        "buttonText": "Discover More",
+        "buttonIcon": "fas fa-angle-right"
+    },
+    {
+        "id": 2,
+        "thumb": "15.jpg",
+        "title": "Best harvest",
+        "description": "Coming merits and was talent enough far. Sir joy northward sportsmen education. Discovery incommode earnestly no he commanded.",
+        "buttonText": "Discover More",
+        "buttonIcon": "fas fa-angle-right"
+    }
+]

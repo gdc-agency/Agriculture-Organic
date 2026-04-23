@@ -1,0 +1,54 @@
+{
+  "name": "agrica-nextjs",
+  "version": "1.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.9.2",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.8",
+    "gsap": "^3.13.0",
+    "imagesloaded": "^5.0.0",
+    "isotope-layout": "^3.0.6",
+    "next": "^16.2.4",
+    "react": "^19.2.0",
+    "react-circular-progressbar": "^2.2.0",
+    "react-countup": "^6.5.3",
+    "react-dom": "^19.2.0",
+    "react-modal-video": "^2.0.2",
+    "react-paginate": "^8.3.0",
+    "react-photo-view": "^1.2.7",
+    "react-redux": "^9.2.0",
+    "react-simple-scroll-up": "^0.2.3",
+    "react-toastify": "^11.0.5",
+    "swiper": "^12.0.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/imagesloaded": "^4.1.7",
+    "@types/isotope-layout": "^3.0.15",
+    "@types/node": "^24.9.1",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@types/react-redux": "^7.1.34",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "eslint": "^9.38.0",
+    "eslint-config-next": "16.0.0",
+    "typescript": "^5.9.3"
+  },
+  "overrides": {
+    "react-modal-video": {
+      "react": "^19.2.0",
+      "react-dom": "^19.2.0"
+    },
+    "react-simple-scroll-up": {
+      "react": "^19.2.0",
+      "react-dom": "^19.2.0"
+    }
+  }
+}

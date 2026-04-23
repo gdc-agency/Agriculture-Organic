@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "thumb": "3.jpg",
+        "quoteImage": "quote-big.png",
+        "testimonial": "Targeting consultation discover apartments. Indulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.",
+        "name": "Matthew J. Wyman",
+        "designation": "Senior Consultant",
+        "ratings": 4.5
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "quoteImage": "quote-big.png",
+        "testimonial": "Consultation discover apartments. Indulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits.",
+        "name": "Anthom Bu Spar",
+        "designation": "Marketing Manager",
+        "ratings": 4.5
+    },
+    {
+        "id": 3,
+        "thumb": "1.jpg",
+        "quoteImage": "quote-big.png",
+        "testimonial": "Business discover apartments. Indulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts.",
+        "name": "Metho K. Partho",
+        "designation": "Senior Developer",
+        "ratings": 4.5
+    }
+]

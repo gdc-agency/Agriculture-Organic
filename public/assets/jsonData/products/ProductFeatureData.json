@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "icon": "26.png",
+        "title": "Money Return",
+        "description": "Back guarantee under 15 days"
+    },
+    {
+        "id": 2,
+        "icon": "27.png",
+        "title": "Member Discount",
+        "description": "Big offer for the new members"
+    }
+]

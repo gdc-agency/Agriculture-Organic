@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "thumb": "2.jpg",
+        "thumbFull": "2-full.jpg",
+        "icon": "21.png",
+        "title": "Agriculture",
+        "category": "Products"
+    },
+    {
+        "id": 2,
+        "thumb": "3.jpg",
+        "thumbFull": "3-full.jpg",
+        "icon": "22.png",
+        "title": "Fresh",
+        "category": "Vegetable"
+    },
+    {
+        "id": 3,
+        "thumb": "4.jpg",
+        "thumbFull": "4-full.jpg",
+        "icon": "23.png",
+        "title": "Organic",
+        "category": "Products"
+    },
+    {
+        "id": 4,
+        "thumb": "5.jpg",
+        "thumbFull": "5-full.jpg",
+        "icon": "24.png",
+        "title": "Dairy",
+        "category": "Products"
+    },
+    {
+        "id": 5,
+        "thumb": "2.jpg",
+        "thumbFull": "2-full.jpg",
+        "icon": "21.png",
+        "title": "Agriculture",
+        "category": "Products"
+    },
+    {
+        "id": 6,
+        "thumb": "3.jpg",
+        "thumbFull": "3-full.jpg",
+        "icon": "22.png",
+        "title": "Fresh",
+        "category": "Vegetable"
+    },
+    {
+        "id": 7,
+        "thumb": "4.jpg",
+        "thumbFull": "4-full.jpg",
+        "icon": "23.png",
+        "title": "Organic",
+        "category": "Products"
+    },
+    {
+        "id": 8,
+        "thumb": "5.jpg",
+        "thumbFull": "5-full.jpg",
+        "icon": "24.png",
+        "title": "Dairy",
+        "category": "Products"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "category": "fruit",
+        "thumb": "1.png",
+        "productPage": "shop-single",
+        "tags": [
+            "Crop",
+            "Organic"
+        ],
+        "title": "Strawberry",
+        "price": "$12.00",
+        "oldPrice": null,
+        "onSale": false
+    },
+    {
+        "id": 2,
+        "category": "vegetables",
+        "thumb": "2.png",
+        "productPage": "shop-single",
+        "tags": [
+            "Vegetables",
+            "Winter"
+        ],
+        "title": "Organic Carrot",
+        "price": "$5.00",
+        "oldPrice": "$8.00",
+        "onSale": true
+    },
+    {
+        "id": 3,
+        "category": "fruit",
+        "thumb": "3.png",
+        "productPage": "shop-single",
+        "tags": [
+            "Fruits",
+            "Juicy"
+        ],
+        "title": "Fresh Red Seedless",
+        "price": "$14.00",
+        "oldPrice": null,
+        "onSale": false
+    },
+    {
+        "id": 4,
+        "category": "vegetables",
+        "thumb": "4.png",
+        "productPage": "shop-single",
+        "tags": [
+            "Fruits",
+            "Juicy"
+        ],
+        "title": "Organic Sweet Corn",
+        "price": "$8.00",
+        "oldPrice": null,
+        "onSale": false
+    }
+]

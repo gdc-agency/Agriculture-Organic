@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "title": "Strawberry",
+    "thumb": "1.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "active",
+    "discount": 16,
+    "tags": [
+      "Crop",
+      "Organic"
+    ],
+    "price": "$12.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 0
+  },
+  {
+    "id": 2,
+    "title": "Organic Carrot",
+    "thumb": "2.png",
+    "ratings": 4,
+    "reviews": 8,
+    "activeClass": "",
+    "discount": 25,
+    "tags": [
+      "Vegetables",
+      "Winter"
+    ],
+    "price": "$5.00",
+    "oldPrice": "$8.00",
+    "onSale": true,
+    "dataSlideTo": 1
+  },
+  {
+    "id": 3,
+    "title": "Fresh Red Seedless",
+    "thumb": "3.png",
+    "ratings": 5,
+    "reviews": 9,
+    "activeClass": "",
+    "discount": 33,
+    "tags": [
+      "Fruits",
+      "Juicy"
+    ],
+    "price": "$14.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 2
+  },
+  {
+    "id": 4,
+    "title": "Organic Sweet Corn",
+    "thumb": "4.png",
+    "ratings": 3,
+    "reviews": 10,
+    "activeClass": "",
+    "discount": 55,
+    "tags": [
+      "Fruits",
+      "Juicy"
+    ],
+    "price": "$8.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 3
+  },
+  {
+    "id": 5,
+    "title": "Fresh Fish",
+    "thumb": "5.png",
+    "ratings": 5,
+    "reviews": 11,
+    "activeClass": "",
+    "discount": 20,
+    "tags": [
+      "Fish",
+      "Health"
+    ],
+    "price": "$25.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 4
+  },
+  {
+    "id": 6,
+    "title": "Fresh Banana",
+    "thumb": "6.png",
+    "ratings": 4,
+    "reviews": 12,
+    "activeClass": "",
+    "discount": 21,
+    "tags": [
+      "Seasonal",
+      "Fruit"
+    ],
+    "price": "$13.00",
+    "oldPrice": "$18.00",
+    "onSale": false,
+    "dataSlideTo": 5
+  },
+  {
+    "id": 7,
+    "title": "Organic Cucumber",
+    "thumb": "7.png",
+    "ratings": 3,
+    "reviews": 14,
+    "activeClass": "",
+    "discount": 22,
+    "tags": [
+      "Seasonal",
+      "Vegetables"
+    ],
+    "price": "$3.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 6
+  },
+  {
+    "id": 8,
+    "title": "Green Avocado",
+    "thumb": "8.png",
+    "ratings": 4,
+    "reviews": 9,
+    "activeClass": "",
+    "discount": 23,
+    "tags": [
+      "Vegetables",
+      "Fruit"
+    ],
+    "price": "$6.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 7
+  },
+  {
+    "id": 9,
+    "title": "Organic Cucumber",
+    "thumb": "7.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 24,
+    "tags": [
+      "Seasonal",
+      "Vegetables"
+    ],
+    "price": "$3.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 8
+  },
+  {
+    "id": 10,
+    "title": "Fresh Banana",
+    "thumb": "6.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 25,
+    "tags": [
+      "Seasonal",
+      "Fruit"
+    ],
+    "price": "$13.00",
+    "oldPrice": "$18.00",
+    "onSale": false,
+    "dataSlideTo": 9
+  },
+  {
+    "id": 11,
+    "title": "Fresh Fish",
+    "thumb": "5.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 26,
+    "tags": [
+      "Fish",
+      "Health"
+    ],
+    "price": "$25.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 10
+  },
+  {
+    "id": 12,
+    "title": "Organic Sweet Corn",
+    "thumb": "4.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 27,
+    "tags": [
+      "Fruits",
+      "Juicy"
+    ],
+    "price": "$8.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 11
+  },
+  {
+    "id": 13,
+    "title": "Fresh Red Seedless",
+    "thumb": "3.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 28,
+    "tags": [
+      "Fruits",
+      "Juicy"
+    ],
+    "price": "$14.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 12
+  },
+  {
+    "id": 14,
+    "title": "Organic Carrot",
+    "thumb": "2.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 29,
+    "tags": [
+      "Vegetables",
+      "Winter"
+    ],
+    "price": "$5.00",
+    "oldPrice": "$8.00",
+    "onSale": true,
+    "dataSlideTo": 13
+  },
+  {
+    "id": 15,
+    "title": "Strawberry",
+    "thumb": "1.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 30,
+    "tags": [
+      "Crop",
+      "Organic"
+    ],
+    "price": "$12.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 14
+  },
+  {
+    "id": 16,
+    "title": "Organic Sweet Corn",
+    "thumb": "4.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 15,
+    "tags": [
+      "Fruits",
+      "Juicy"
+    ],
+    "price": "$8.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 15
+  },
+  {
+    "id": 17,
+    "title": "Fresh Banana",
+    "thumb": "6.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 16,
+    "tags": [
+      "Seasonal",
+      "Fruit"
+    ],
+    "price": "$13.00",
+    "oldPrice": "$18.00",
+    "onSale": false,
+    "dataSlideTo": 16
+  },
+  {
+    "id": 18,
+    "title": "Green Avocado",
+    "thumb": "8.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 17,
+    "tags": [
+      "Vegetables",
+      "Fruit"
+    ],
+    "price": "$6.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 17
+  },
+  {
+    "id": 19,
+    "title": "Fresh Red Seedless",
+    "thumb": "3.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 18,
+    "tags": [
+      "Fruits",
+      "Juicy"
+    ],
+    "price": "$14.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 18
+  },
+  {
+    "id": 20,
+    "title": "Organic Cucumber",
+    "thumb": "7.png",
+    "ratings": 5,
+    "reviews": 7,
+    "activeClass": "",
+    "discount": 19,
+    "tags": [
+      "Seasonal",
+      "Vegetables"
+    ],
+    "price": "$3.00",
+    "oldPrice": null,
+    "onSale": false,
+    "dataSlideTo": 19
+  }
+]

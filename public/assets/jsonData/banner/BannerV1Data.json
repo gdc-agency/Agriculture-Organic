@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "3.jpg",
+        "shape": "2.png",
+        "badgeText": "100% Organic Product",
+        "videoIds": "0yoFrlxKMis",
+        "title": "Agriculture Farming Products",
+        "description": "Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable.",
+        "buttonText": "Discover More"
+    },
+    {
+        "id": 2,
+        "image": "4.jpg",
+        "shape": "2.png",
+        "badgeText": "100% Organic Product",
+        "videoIds": "0yoFrlxKMis",
+        "title": "Homemade Organic Product",
+        "description": "Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable.",
+        "buttonText": "Discover More"
+    }
+]

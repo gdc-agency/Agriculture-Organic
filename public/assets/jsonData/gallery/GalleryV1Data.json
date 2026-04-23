@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "thumb": "1.jpg",
+        "category": "Fruit",
+        "title": "Healthy Food"
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "category": "Organic",
+        "title": "Cow Milk"
+    },
+    {
+        "id": 3,
+        "thumb": "3.jpg",
+        "category": "Vegetables",
+        "title": "Organic Vegetables"
+    },
+    {
+        "id": 4,
+        "thumb": "4.jpg",
+        "category": "Cereals",
+        "title": "Fresh Mandarins"
+    },
+    {
+        "id": 5,
+        "thumb": "5.jpg",
+        "category": "Harvest",
+        "title": "Crispy Cucumber"
+    }
+]

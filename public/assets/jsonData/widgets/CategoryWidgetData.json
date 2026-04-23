@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "category": "national",
+        "count": 69
+    },
+    {
+        "id": 2,
+        "category": "International",
+        "count": 25
+    },
+    {
+        "id": 3,
+        "category": "sports",
+        "count": 18
+    },
+    {
+        "id": 4,
+        "category": "magazine",
+        "count": 37
+    },
+    {
+        "id": 5,
+        "category": "health",
+        "count": 12
+    }
+]
