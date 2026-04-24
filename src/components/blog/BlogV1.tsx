@@ -24,7 +24,7 @@ const BlogV1 = () => {
                         <div className="col-xl-6 col-md-12 mb-30">
                             <div className="blog-style-one">
                                 <div className="thumb">
-                                    <Image src="/assets/img/blog/1.jpg" alt="Image Not Found" className="h-auto" width={900} height={600} />
+                                    <Image src="/assets/img/image_7.jpeg" alt="Image Not Found" className="h-auto" width={900} height={600} />
                                     <div className="overlay text-light">
                                         <h3 className="post-title">
                                             <Link href="/blog-single-with-sidebar/1">Miscovery incommode earnestly commanded if.</Link>

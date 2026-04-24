@@ -34,7 +34,7 @@ const AboutV1 = () => {
                     <div className="row align-center">
                         <div className="col-xl-6 col-lg-5">
                             <div className="about-style-one-thumb">
-                                <Image src="/assets/img/about/1.jpg" alt="Image Not Found" width={615} height={852} />
+                                <Image src="/assets/img/about/product-farm.png" alt="Agriculture & Organic Product Farm" width={615} height={852} />
                                 <div className="animation-shape">
                                     <Image src="/assets/img/illustration/1.png" alt="Image Not Found" width={250} height={533} />
                                 </div>

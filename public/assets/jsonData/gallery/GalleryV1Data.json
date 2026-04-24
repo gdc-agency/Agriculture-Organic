@@ -1,31 +1,31 @@
 [
     {
         "id": 1,
-        "thumb": "1.jpg",
+        "thumb": "1p.jpg",
         "category": "Fruit",
         "title": "Healthy Food"
     },
     {
         "id": 2,
-        "thumb": "2.jpg",
+        "thumb": "6p.jpg",
         "category": "Organic",
         "title": "Cow Milk"
     },
     {
         "id": 3,
-        "thumb": "3.jpg",
+        "thumb": "3p.jpg",
         "category": "Vegetables",
         "title": "Organic Vegetables"
     },
     {
         "id": 4,
-        "thumb": "4.jpg",
+        "thumb": "4p.jpg",
         "category": "Cereals",
         "title": "Fresh Mandarins"
     },
     {
         "id": 5,
-        "thumb": "5.jpg",
+        "thumb": "5p.jpg",
         "category": "Harvest",
         "title": "Crispy Cucumber"
     }
